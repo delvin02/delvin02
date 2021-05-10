@@ -6621,6 +6621,7 @@ button.bg-dark:focus {
 
 .flex-grow-1 {
   flex-grow: 1 !important;
+  text-align: justify;
 }
 
 .flex-shrink-0 {
@@ -10036,6 +10037,7 @@ h1 {
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+  text-align: justify;
 }
 
 .subheading {
@@ -10127,6 +10129,7 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
+  text-align: justify;
 }
 
 @media (min-width: 768px) {
