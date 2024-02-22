@@ -9,11 +9,10 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ My Favorite Tools
 
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -72,7 +71,7 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
     <img align="left" alt="xcode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-      </p>
+  </p>
 </details>
 
 <br />
