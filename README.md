@@ -32,7 +32,9 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 <br />
+---
 
-<a href="https://app.daily.dev/delvin762"><img src="https://api.daily.dev/devcards/v2/RzEzPBC4twA46E1enkeqK.png?r=p0j&type=wide" width="652" alt="Delvin's Dev Card"/></a>
 
 [![Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=delvin02)](https://github.com/delvin02/github-readme-stats)
+
+![Snake animation](https://github.com/delvin02/delvin02/blob/output/github-contribution-grid-snake.svg)
