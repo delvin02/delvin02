@@ -32,14 +32,10 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 <br />
+
 ---
 
 
 
 ![Snake animation](https://github.com/delvin02/delvin02/blob/output/github-contribution-grid-snake-dark.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake-dark.svg" />
-</picture>
