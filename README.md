@@ -12,9 +12,6 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
 ### 🛠️ My Favorite Tools
 
 
-  <h2>🛠️ My Favorite Tools</h2>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -48,6 +45,8 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
     <img align="left" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img align="left" alt="express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
     <img align="left" alt="flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+    <img align="left" alt="vite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+
   </p>
 
   </br>
@@ -58,6 +57,8 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
     <img align="left" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     <img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img align="left" alt="aws" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
   </p>
 
   </br>
@@ -70,6 +71,8 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
     <img align="left" alt="androidstudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img align="left" alt="xcode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="left" alt="confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
+    <img align="left" alt="jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 
   </p>
 </details>
