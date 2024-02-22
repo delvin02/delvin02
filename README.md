@@ -9,7 +9,7 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
 
 ---
 
-### 🛠️ My Favorite Tools
+## 🛠️ My Favorite Tools
 
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -46,6 +46,8 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
     <img align="left" alt="express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
     <img align="left" alt="flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img align="left" alt="vite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+    <img align="left" alt="uwsgi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uwsgi/uwsgi-plain.svg" />
+    <img align="left" alt="selenium" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 
   </p>
 
@@ -73,6 +75,7 @@ I am an indie full-stack developer currently employed by Interfy Pty Ltd in cons
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" alt="confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
     <img align="left" alt="jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    <img align="left" alt="vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 
   </p>
 </details>
