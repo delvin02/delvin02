@@ -1,6 +1,6 @@
 # Delvin Khor Weei Waai
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=delvin02&label=Profile%20views&color=0e75b6&style=flat" alt="delvin02" /> </p>
-**`Software Engineer`**
+**Software Engineer**
 
 I am an indie full-stack developer currently employed by Interfy Pty Ltd in construction technology industry. Currently residing in Adelaide, Australia.
 - 📫 Feel free to reach me on: 
